@@ -3,7 +3,7 @@ A Python Jupyter Notebook code that shows the number of Cases in US (up until Ju
 
 ## Example of graphs:
 
-#Total Cases of United States (last database update: July 2020)
+# Total Cases of United States (last database update: July 2020)
 ![alt text](https://github.com/FAndre14/JN-US-Covid-Graphs/blob/main/Graph%20Images/TotalCases.png?raw=true)
 
 # The relation between the Unemployment Rate and the Covid Cases
